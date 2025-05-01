@@ -19,7 +19,7 @@ app.use(cookieParser());
 
 // Setup CORS properly
 app.use(cors({
-  origin: ['http://localhost:5173', 'https://hire-hub-chandan.vercel.app'],  
+  origin: ['http://localhost:5173', 'https://hiringplatformcom.vercel.app'],  
   credentials: true
 }));
 
