@@ -41,8 +41,8 @@ A comprehensive job seeking and posting platform that connects job seekers with 
 ### 4. Chat Bot
 ![Company Dashboard](./images/5.png)
 
-### 5. Landing Page
-![Job Posting Form](./images/4.png)
+### 5. Filtering Page
+![Job Posting Form](./images/2.png)
 
 ## 🛠️ Tech Stack
 
